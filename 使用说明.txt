@@ -1,0 +1,15 @@
+1.数据库定义和初始化
+将 formulatodb.py defnationtodb.py formula.txt defination.txt sword.db 放到同一文件夹下,运行两个py文件
+（不必做，因为sword.db已经配好）
+
+2.完全公式生成
+与步骤一文件夹中放入1.py 1.txt 2.txt 3.txt 运行1.py，生成 0.txt，复制到excel
+
+3.手动补全
+鼠儿果和蛊炼化公式网上缺失，应得到赤血蚕
+傀儡虫 驱魔香 十里香 引路蜂 互相炼化均为 蛊
+补全后复制到 0.txt
+（现有0.txt已补全）
+
+4.计算最钱数
+将price.txt放入上述文件夹，运行 cal.py，获得信息
